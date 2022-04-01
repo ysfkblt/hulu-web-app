@@ -2,19 +2,7 @@ module.exports = {
 	images: {
 		domains: ['image.tmdb.org'],
 	},
+	eslint: {
+		ignoreDuringBuilds: true,
+	},
 };
-
-/* @type {import('next').NextConfig}
-const nextConfig = {
-	reactStrictMode: true,
-};
-
-(module.exports = nextConfig),
-	{
-		images: {
-			domains: ['links.papareact.com', 'image.tmdb.org'],
-		},
-	};
-
-
- */
