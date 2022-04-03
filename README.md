@@ -1,6 +1,6 @@
 # Hulu Web App
 
-### You can view the site [**here.**](https://huluwebapp.vercel.app/)
+### You can view the site <a href="https://huluwebapp.vercel.app/" target="_blank"><b>here.</b></a>
 
 <br/>
 
