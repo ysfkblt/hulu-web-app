@@ -17,7 +17,7 @@ export default function Nav() {
 					</h2>
 				))}
 			</div>
-			<div className='absolute top-0 right-0 bg-gradient-to-r from-[#183949]  h-10 w-20 blur-md ' />
+			<div className='absolute opacity-0 sm:opacity-100 top-0 right-0 bg-gradient-to-r from-[#183949]  h-10 w-20 blur-md ' />
 		</nav>
 	);
 }
